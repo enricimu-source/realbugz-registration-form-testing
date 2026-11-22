@@ -104,3 +104,20 @@ Project Type
 Personal Manual QA Testing Practice Project.
 
 This project was independently performed for learning and demonstrating manual testing skills.
+
+## Project Documentation
+
+- [Test Cases and Execution Summary](QA%20Testing%20Project.xlsx)
+- [Bug Reports](Testing_Bug%20Report.xlsx)
+- [Defect Screenshots](Screenshots/)
+
+## Project Results
+
+- Total Test Scenarios: 41
+- Passed: 33
+- Failed: 8
+- Defects Identified: 8
+
+## Repository
+
+This is a personal manual QA practice project created to demonstrate test case design, test execution, defect reporting, and evidence documentation.
